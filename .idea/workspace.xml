@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="13696b44-2248-4f43-9bd9-8abca6a79a3b" name="Changes" comment="" />
+    <list default="true" id="13696b44-2248-4f43-9bd9-8abca6a79a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/elbr2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/elbr2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analises_Urnas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Analises_Urnas.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/first_page.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documents/first_page.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/last_page.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documents/last_page.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urna_log_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/urna_log_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/votos_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/votos_crawler.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +33,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.report.executor": "Run",
+    "Python.urna_log_crawler.executor": "Run",
+    "Python.votos_crawler.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documents" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
